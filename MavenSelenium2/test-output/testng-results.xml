@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-29T08:05:45Z" name="Default suite" finished-at="2020-04-29T08:05:58Z" duration-ms="12650">
+    <groups>
+    </groups>
+    <test started-at="2020-04-29T08:05:45Z" name="Default test" finished-at="2020-04-29T08:05:58Z" duration-ms="12650">
+      <class name="MavenTestNGSelenium1.TestNGDemo2">
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:MavenTestNGSelenium1.TestNGDemo2@d86a6f]" started-at="2020-04-29T08:05:45Z" name="setupTest" finished-at="2020-04-29T08:05:52Z" duration-ms="7151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="GoogleSearch()[pri:0, instance:MavenTestNGSelenium1.TestNGDemo2@d86a6f]" started-at="2020-04-29T08:05:52Z" name="GoogleSearch" finished-at="2020-04-29T08:05:55Z" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch -->
+        <test-method is-config="true" signature="TearDownTest()[pri:0, instance:MavenTestNGSelenium1.TestNGDemo2@d86a6f]" started-at="2020-04-29T08:05:55Z" name="TearDownTest" finished-at="2020-04-29T08:05:58Z" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDownTest -->
+      </class> <!-- MavenTestNGSelenium1.TestNGDemo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
